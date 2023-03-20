@@ -1,4 +1,4 @@
-const apikey = "348e7f622a59b3cead9e86a570d0f647";
+const apikey = "Add your Key Here";
 const wrapper = document.querySelector(".wrapper"),
     inputPart = document.querySelector(".input-part"),
     infoTxt = inputPart.querySelector(".info-txt"),
